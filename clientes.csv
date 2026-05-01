@@ -1,0 +1,13 @@
+id_cliente;nombre_cliente;segmento;pais
+1;Empresa Alpha;Startup;España
+2;Grupo Beta;Corporativo;Argentina
+3;Comercial Gamma;Corporativo;México
+4;Distribuidora Delta;Corporativo;España
+5;Inversiones Epsilon;Startup;Chile
+6;Tech Zeta;Corporativo;Chile
+7;Soluciones Eta;PYME;España
+8;Corporación Theta;Corporativo;España
+9;Servicios Iota;Corporativo;México
+10;Negocios Kappa;Startup;Chile
+11;Holding Lambda;Corporativo;Chile
+12;Consultora Mu;Corporativo;Chile

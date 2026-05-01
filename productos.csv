@@ -1,0 +1,13 @@
+id_producto;nombre_producto;categoria
+1;Laptop Pro 15;Electrónica
+2;Laptop Air 13;Electrónica
+3;"Monitor 27""";Electrónica
+4;Teclado Mecánico;Periféricos
+5;Mouse Inalámbrico;Periféricos
+6;Auriculares BT;Periféricos
+7;Silla Ergonómica;Mobiliario
+8;Escritorio Standing;Mobiliario
+9;Webcam HD;Periféricos
+10;Disco SSD 1TB;Almacenamiento
+11;Disco SSD 500GB;Almacenamiento
+12;Hub USB-C;Periféricos
